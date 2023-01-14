@@ -1,0 +1,24 @@
+* {
+    margin: auto;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+
+#navegacao {
+    border: 1px solid red;
+    min-width: 320px;
+    max-width: 800px;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    
+}
+
+img {
+    width: 50%;
+}
